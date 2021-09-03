@@ -1,10 +1,10 @@
 **Tips from Twitter**
 
-*
+https://twitter.com/cristiankocza/status/1433778633626247172
 
 **Articles**
 
-* [View clipping in SwiftUI](https://www.fivestars.blog/articles/swiftui-clipping/), by [@zntfdr](https://twitter.com/zntfdr)
+* 
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* 
